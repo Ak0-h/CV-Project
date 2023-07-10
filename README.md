@@ -8,7 +8,3 @@ Classification of facial expression
 .
 .
 ResNet fine tuning 
-.
-.
-.
-.
